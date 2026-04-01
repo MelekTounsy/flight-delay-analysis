@@ -79,25 +79,6 @@ The purpose of this project is to identify **structural patterns** in delays and
 
 ---
 
-## Repository Structure
-
-flight-delay-analysis/
-│
-├── README.md
-├── report.pdf
-│
-├── notebooks/
-│ └── analysis.ipynb
-│
-└── visuals/
-├── aircraft_age_vs_delay.png
-├── delay_distribution.png
-├── diversion_model.png
-└── carrier_diversion_rates.png
-
-
----
-
 ## Conclusion
 
 Flight delays and diversions are primarily driven by **operational factors**, particularly departure delays, rather than aircraft characteristics.
