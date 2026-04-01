@@ -64,7 +64,7 @@ Variation exists across carriers, but differences remain relatively small.
 
 ---
 
-## ⚠️ Notes on Data
+##  Notes on Data
 
 The dataset covers flights from **2003–2007**.
 
@@ -72,14 +72,14 @@ The purpose of this project is to identify **structural patterns** in delays and
 
 ---
 
-## 💻 Tools & Technologies
+##  Tools & Technologies
 
 - Python (Pandas, NumPy, Seaborn, Matplotlib)  
 - Statistical modeling (Logistic Regression)  
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 flight-delay-analysis/
 │
