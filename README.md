@@ -28,7 +28,7 @@ The objective is to identify operational factors affecting airline performance a
 The analysis follows a structured data science workflow:
 
 - Data cleaning and preprocessing  
-- Feature engineering (e.g. aircraft age)  
+- Feature engineering (example: aircraft age, ...)  
 - Exploratory data analysis  
 - Logistic regression modeling  
 
